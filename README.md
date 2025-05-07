@@ -1,13 +1,40 @@
-# React + Vite
+# KukhurikanInc Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, sci-fi themed portfolio website for **KukhurikanInc** — a tech company specializing in consulting, system design, and web/mobile development. Built with **React** and styled using **TailwindCSS**, the site features smooth animations, a responsive layout, and glowing interactive elements.
 
-Currently, two official plugins are available:
+## 🚀 Tagline
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**"Building tech one byte at a time"**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# kukhurikan-inc
+## 🔧 Tech Stack
+
+- **React** (Frontend)
+- **TailwindCSS** (Styling)
+- **Vite**
+- **Responsive Design** (Mobile-first)
+
+---
+
+## 📁 Features
+
+- 🔹 **Dark sci-fi theme** with glowing blue accents
+- 🔹 Animated **hero section** with tech image
+- 🔹 **Navigation menu** with smooth scroll
+- 🔹 Informative **About** & **Services** sections
+- 🔹 Stylish **Projects** showcase with hover effects
+- 🔹 **Founders** grid layout
+- 🔹 Functional **Contact form**
+- 🔹 Footer with social media links
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/ashon-shakya/kukhurikan-inc.git
+cd kukhurikan-inc
+npm install
+npm run dev # or npm start if using CRA
+```
